@@ -1,5 +1,6 @@
 # They_See_You
-<img width="1283" height="1266" alt="ScreenShot of touchdesigner project" src="https://github.com/user-attachments/assets/96c8c2d7-2f95-423f-a1a8-f75fb5139a78"  />
+<img width="1283" height="690" alt="Screenshot 2025-10-28 132019" src="https://github.com/user-attachments/assets/58d01e5f-3314-45ef-ac1a-54b52c1b5013" />
+
 <sub>ScreenShot of TheySeeYou project</sub>
 
 
