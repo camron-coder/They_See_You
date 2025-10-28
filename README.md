@@ -15,6 +15,11 @@ Finding the images was a bit of a challenge because im not good with the color m
 How would I want this to be experienced? I would have this projected in a small dark room. The user would stand and look at a specific spot and look at the projection.
 There would be 2 speakers in front of the user playing an errie music track. There would be 2 more speakers playing some breathing noises. 
 
+## Materials and Programs 
+---------------
+Touchdesigner
+[Creepy Face 1](https://www.reddit.com/r/Scary/comments/1bzdsp3/are_these_faces_scary_enough_its_for_my_yt_series/)
+
 ## Future plan
 ---------------
 In the future I will add more interaction such as a small interactable sequence in the beginning that the player will have choices to choose between and depending on what they choose they will either get the creppy sequence or something different. I will also add more sounds such as knocking sounds, a couple voice cues, and maybe some thunder 
